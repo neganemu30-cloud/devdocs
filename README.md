@@ -1,5 +1,5 @@
 # Moodle Developer Resources
-
+Cara membatalkan pinjaman Adakami 
 <p align="center">
   <!--<a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>-->
   <!--<a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>-->
@@ -11,7 +11,7 @@
 </p>
 
 ## Introduction
-
+Begini Cara Membatalkan P𝗶njaman (Adakami) Pembatalan dengan cara menghubungi call center melalui WA, ((+62823-1196-7326,)bisa juga di WA (0821-2464-5884),jelaskan alasan ingin melakukan Pembatalan, lalu siapkan data diri Anda seperti KTP, dan ikuti arahan customer service.
 This repository includes the source for the Moodle Developer Resources - a
 collection of resources aimed at making your life as a Moodle Developer easier.
 
